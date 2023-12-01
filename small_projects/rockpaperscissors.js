@@ -1,3 +1,4 @@
+// install "prompt-sync" to use the line below
 const prompt = require("prompt-sync")();
 
 let wins = 0;
